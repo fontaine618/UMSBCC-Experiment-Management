@@ -1,0 +1,21 @@
+Title
+=====
+Experiment Management with batchtools (R) and pypet (Python)
+
+Date
+====
+January 30th, 2023, 12-1pm
+
+Location
+========
+West Hall 411
+
+Abstract
+========
+Statistics research often require some embarassingly parallel computations: you might want to apply your method to a sequence of synthetic data sets, apply multiple variants of your method to the same data set, compare your method to existing method, and any combination thereof. All of these cases involve executing very similar code with just a few changes between runs. While you can manage all these parallel experiments on your own, significant development time can be saved and many headaches can be avoided by using parameter exploration tools. In this meeting, we will be discussing two such tools: batchtools in R and pypet in Python. If time allows, we will also be looking at the interaction of those tools with the Great Lakes cluster trhough the Slurm scheduler.
+
+If you are using other experiment management tools and would like to share your experience with them, feel free to contact me so we can 
+
+Links
+=====
+CC-link
