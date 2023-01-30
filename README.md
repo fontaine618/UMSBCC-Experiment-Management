@@ -1,14 +1,14 @@
 # UMSBCC-Experiment-Management
 Experiment Management with batchtools (R) and pypet (Python) 
 
-# Required packages
+## Required packages
 
-## R
+### R
 
 - batchtools
 - tidyverse, magrittr, data.table
 
-## Python
+### Python
 
 - pypet
 - numpy
